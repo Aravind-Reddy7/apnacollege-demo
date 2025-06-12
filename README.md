@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repo
 <br>
-Author Aravind Reddy
+Author : Aravind (Telugu Soft)
